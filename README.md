@@ -1,2 +1,2 @@
-# food_system_models
-Repository containing the database shiny app of food system model evaluation
+# Food system models
+This is a repository containing the database and code for shiny app of food system model evaluation
